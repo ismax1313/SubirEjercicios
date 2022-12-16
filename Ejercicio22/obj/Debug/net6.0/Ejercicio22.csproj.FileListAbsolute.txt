@@ -1,0 +1,15 @@
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\bin\Debug\net6.0\Ejercicio22.exe
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\bin\Debug\net6.0\Ejercicio22.deps.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\bin\Debug\net6.0\Ejercicio22.runtimeconfig.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\bin\Debug\net6.0\Ejercicio22.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\bin\Debug\net6.0\Ejercicio22.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.csproj.AssemblyReference.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.AssemblyInfoInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.AssemblyInfo.cs
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\refint\Ejercicio22.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\Ejercicio22.genruntimeconfig.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio22\obj\Debug\net6.0\ref\Ejercicio22.dll

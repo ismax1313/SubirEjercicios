@@ -1,0 +1,15 @@
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\bin\Debug\net6.0\Ejercicio26.exe
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\bin\Debug\net6.0\Ejercicio26.deps.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\bin\Debug\net6.0\Ejercicio26.runtimeconfig.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\bin\Debug\net6.0\Ejercicio26.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\bin\Debug\net6.0\Ejercicio26.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.csproj.AssemblyReference.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.AssemblyInfoInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.AssemblyInfo.cs
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.csproj.CoreCompileInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\refint\Ejercicio26.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\Ejercicio26.genruntimeconfig.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio26\obj\Debug\net6.0\ref\Ejercicio26.dll

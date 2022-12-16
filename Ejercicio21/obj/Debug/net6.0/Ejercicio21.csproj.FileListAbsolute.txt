@@ -1,0 +1,15 @@
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\bin\Debug\net6.0\Ejercicio21.exe
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\bin\Debug\net6.0\Ejercicio21.deps.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\bin\Debug\net6.0\Ejercicio21.runtimeconfig.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\bin\Debug\net6.0\Ejercicio21.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\bin\Debug\net6.0\Ejercicio21.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.csproj.AssemblyReference.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.AssemblyInfoInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.AssemblyInfo.cs
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\refint\Ejercicio21.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\Ejercicio21.genruntimeconfig.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio21\obj\Debug\net6.0\ref\Ejercicio21.dll
