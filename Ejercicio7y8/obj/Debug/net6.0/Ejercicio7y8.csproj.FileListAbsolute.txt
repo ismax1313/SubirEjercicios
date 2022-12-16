@@ -1,0 +1,15 @@
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\bin\Debug\net6.0\Ejercicio7y8.exe
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\bin\Debug\net6.0\Ejercicio7y8.deps.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\bin\Debug\net6.0\Ejercicio7y8.runtimeconfig.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\bin\Debug\net6.0\Ejercicio7y8.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\bin\Debug\net6.0\Ejercicio7y8.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.csproj.AssemblyReference.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.AssemblyInfoInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.AssemblyInfo.cs
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.csproj.CoreCompileInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\refint\Ejercicio7y8.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\Ejercicio7y8.genruntimeconfig.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio7y8\obj\Debug\net6.0\ref\Ejercicio7y8.dll

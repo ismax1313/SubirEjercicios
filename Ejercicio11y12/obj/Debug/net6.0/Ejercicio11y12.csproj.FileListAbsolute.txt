@@ -1,0 +1,15 @@
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\bin\Debug\net6.0\Ejercicio11y12.exe
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\bin\Debug\net6.0\Ejercicio11y12.deps.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\bin\Debug\net6.0\Ejercicio11y12.runtimeconfig.json
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\bin\Debug\net6.0\Ejercicio11y12.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\bin\Debug\net6.0\Ejercicio11y12.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.csproj.AssemblyReference.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.AssemblyInfoInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.AssemblyInfo.cs
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.csproj.CoreCompileInputs.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\refint\Ejercicio11y12.dll
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.pdb
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\Ejercicio11y12.genruntimeconfig.cache
+C:\Users\ismax\Documents\Programación\PracticaExamen\Ejercicio11y12\obj\Debug\net6.0\ref\Ejercicio11y12.dll
